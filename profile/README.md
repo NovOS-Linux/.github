@@ -12,5 +12,3 @@ Welcome to the NovOS official github! here you will find source code, Repos for 
 NovOS FE: https://github.com/novos-fe
 
 Source Main: https://github.com/NovOS-Linux/NovOS
-
-Source KDE: https://github.com/NovOS-Linux/novos-kde-source
