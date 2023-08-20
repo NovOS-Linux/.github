@@ -13,4 +13,5 @@ NovOS FE: https://github.com/novos-fe
 
 # Source Code
 Source Main: https://github.com/NovOS-Linux/NovOS
-Source Legacy Main: https://github.com/NovOS-Linux/novos-legacy-kde-source
+
+Source Legacy Main: https://github.com/NovOS-Linux/novos-legacy-kde-source (deperecated)
